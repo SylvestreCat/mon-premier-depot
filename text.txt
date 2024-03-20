@@ -1,3 +1,4 @@
 Hello World !
 Bonjour le monde depuis dépot distant!
 Ligne conflit - local
+Ligne de conflit - version distant.
